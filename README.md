@@ -1,4 +1,4 @@
-![logo](https://github.com/theEdith/theEdith/blob/main/Turning%20complex%20challenges%20into%20elegant%20solutions%20through%20web%20and%20Android%20development%2C%20one%20line%20of%20code%20at%20a%20time.%20(1).png)
+![logo](https://github.com/theEdith/theEdith/blob/main/background_image.png)
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
 <h3 align="center">"Crafting Digital Dreams with Code: Transforming Pixels into Web Magic ✨"</h3>
 
