@@ -1,4 +1,4 @@
-![logo](https://github.com/theEdith/theEdith/blob/main/background_image.png)
+![logo](https://github.com/theEdith/theEdith/blob/main/backgroud_image.png)
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
 <h3 align="center">"Crafting Digital Dreams with Code: Transforming Pixels into Web Magic ✨"</h3>
 
