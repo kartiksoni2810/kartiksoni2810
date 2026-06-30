@@ -1,17 +1,105 @@
-![logo](https://github.com/theEdith/theEdith/blob/main/backgroud_image.png)
+![logo](https://github.com/theEdith/theEdith/blob/main/Turning%20complex%20challenges%20into%20elegant%20solutions%20through%20web%20and%20Android%20development%2C%20one%20line%20of%20code%20at%20a%20time.%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
-<h3 align="center">"Crafting Digital Dreams with Code: Transforming Pixels into Web Magic ✨"</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" controls autoplay/>
+<h3 align="center">
+Full-Stack AI Engineer • Generative AI • Agentic AI • LLM Applications
+</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development.**
-
-- 📫 How to reach me **kartiksoni1028@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kartiksoni28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik soni" height="30" width="40" /></a>
+<p align="center">
+Building intelligent software that combines AI reasoning with scalable full-stack engineering.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+## 🚀 About Me
+
+- 💼 Full-Stack AI Engineer with **2.5+ years** of industry experience
+- 🤖 Building AI-powered applications using **LLMs, RAG, Agentic AI & Multi-Agent Systems**
+- 🌐 Experienced in **React, React Native, Node.js, Python, Flask & FastAPI**
+- 🧠 Passionate about AI Automation, Workflow Orchestration and Intelligent Systems
+- 📚 Currently exploring **Advanced Agentic AI, LangGraph, MCP, AI Agents & Production AI Systems**
+- ⚡ Love building products that solve real-world problems with AI
+
+---
+
+## 💻 Tech Stack
+
+### 🤖 Generative AI
+
+- OpenAI APIs
+- LangChain
+- LangGraph
+- CrewAI
+- SmolAgents
+- RAG Pipelines
+- Prompt Engineering
+- Tool Calling
+- Function Calling
+- AI Agents
+- Multi-Agent Systems
+- Vector Databases
+- ChromaDB
+- Pinecone
+- FAISS
+
+### 🌐 Full Stack
+
+- React
+- React Native
+- Node.js
+- Express.js
+- Flask
+- FastAPI
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+- Tailwind CSS
+- Bootstrap
+
+### 🗄️ Databases
+
+- MongoDB
+- PostgreSQL
+
+### ⚙️ Tools
+
+- Git
+- GitHub
+- Postman
+- Docker
+- VS Code
+- Linux
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Agentic AI
+- Model Context Protocol (MCP)
+- AI Workflow Orchestration
+- Production-grade LLM Systems
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:kartiksoni1028@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kartiksoni28/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning complex business problems into intelligent AI systems that people actually love using.
