@@ -19,7 +19,7 @@ Building intelligent software that combines AI reasoning with scalable full-stac
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=theEdith&style=for-the-badge"/>
+
 </p>
 
 ---
@@ -100,51 +100,6 @@ Building intelligent software that combines AI reasoning with scalable full-stac
 - 🧠 Production-grade LLM Systems
 - 🏗️ System Design
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=theEdith&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theEdith&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theEdith&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=theEdith&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:kartiksoni1028@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kartiksoni28/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 ## ⚡ Quote I Live By
 
