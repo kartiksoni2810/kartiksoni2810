@@ -1,4 +1,4 @@
-![logo](https://github.com/theEdith/theEdith/blob/main/backgroud_image.png)
+![Banner](https://github.com/theEdith/theEdith/blob/main/backgroud_image.png)
 
 <h1 align="center">Hi 👋, I'm Kartik Soni</h1>
 
@@ -10,84 +10,114 @@ Full-Stack AI Engineer • Generative AI • Agentic AI • LLM Applications
 Building intelligent software that combines AI reasoning with scalable full-stack engineering.
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<p align="center">
+<a href="mailto:kartiksoni1028@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🚀 About Me
+<a href="https://www.linkedin.com/in/kartiksoni28/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 💼 Full-Stack AI Engineer with **2.5+ years** of industry experience
-- 🤖 Building AI-powered applications using **LLMs, RAG, Agentic AI & Multi-Agent Systems**
-- 🌐 Experienced in **React, React Native, Node.js, Python, Flask & FastAPI**
-- 🧠 Passionate about AI Automation, Workflow Orchestration and Intelligent Systems
-- 📚 Currently exploring **Advanced Agentic AI, LangGraph, MCP, AI Agents & Production AI Systems**
-- ⚡ Love building products that solve real-world problems with AI
+<img src="https://komarev.com/ghpvc/?username=theEdith&style=for-the-badge"/>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-### 🤖 Generative AI
+- 💼 Full-Stack AI Engineer with **2.5+ years** of professional experience
+- 🤖 Building production-ready applications powered by **LLMs, RAG & Agentic AI**
+- 🌐 Experienced across **React, React Native, Node.js, Python, Flask & FastAPI**
+- 🧠 Passionate about AI Automation, Workflow Orchestration and Intelligent Systems
+- 📚 Currently exploring **Advanced Agentic AI, MCP, Multi-Agent Systems & System Design**
+- ⚡ Love solving real-world business problems with AI
 
-- OpenAI APIs
-- LangChain
-- LangGraph
-- CrewAI
-- SmolAgents
-- RAG Pipelines
-- Prompt Engineering
-- Tool Calling
-- Function Calling
-- AI Agents
-- Multi-Agent Systems
-- Vector Databases
-- ChromaDB
-- Pinecone
-- FAISS
+---
 
-### 🌐 Full Stack
+# 💻 Tech Stack
 
-- React
-- React Native
-- Node.js
-- Express.js
-- Flask
-- FastAPI
-- JavaScript
-- TypeScript
-- Python
-- HTML
-- CSS
-- Tailwind CSS
-- Bootstrap
+## 🤖 AI & LLM
 
-### 🗄️ Databases
+`OpenAI`
+`LangChain`
+`LangGraph`
+`CrewAI`
+`SmolAgents`
+`RAG`
+`Prompt Engineering`
+`Tool Calling`
+`Function Calling`
+`AI Agents`
+`Multi-Agent Systems`
+`ChromaDB`
+`Pinecone`
+`FAISS`
 
-- MongoDB
-- PostgreSQL
+---
 
-### ⚙️ Tools
+## 🌐 Full Stack
 
-- Git
-- GitHub
-- Postman
-- Docker
-- VS Code
-- Linux
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,flask,fastapi,html,css,tailwind,bootstrap,mongodb,postgres" />
+
+</p>
+
+---
+
+## ⚙️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Agentic AI
-- Model Context Protocol (MCP)
-- AI Workflow Orchestration
-- Production-grade LLM Systems
-- System Design
+- 🚀 Advanced Agentic AI
+- 🔗 Model Context Protocol (MCP)
+- 🤖 AI Workflow Orchestration
+- 🧠 Production-grade LLM Systems
+- 🏗️ System Design
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=theEdith&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theEdith&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theEdith&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=theEdith&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
 <a href="mailto:kartiksoni1028@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -100,6 +130,6 @@ Building intelligent software that combines AI reasoning with scalable full-stac
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Quote I Live By
 
-> I enjoy turning complex business problems into intelligent AI systems that people actually love using.
+> **"Turning complex challenges into intelligent AI solutions through thoughtful engineering."**
