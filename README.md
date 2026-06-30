@@ -35,42 +35,58 @@ Building intelligent software that combines AI reasoning with scalable full-stac
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 🤖 AI & LLM
-
-`OpenAI`
-`LangChain`
-`LangGraph`
-`CrewAI`
-`SmolAgents`
-`RAG`
-`Prompt Engineering`
-`Tool Calling`
-`Function Calling`
-`AI Agents`
-`Multi-Agent Systems`
-`ChromaDB`
-`Pinecone`
-`FAISS`
-
----
-
-## 🌐 Full Stack
+### 🤖 Generative AI
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,flask,fastapi,html,css,tailwind,bootstrap,mongodb,postgres" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0F62FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SmolAgents-7952B3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-008080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Function_Calling-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-512DA8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Databases-455A64?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-607D8B?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## ⚙️ Tools
+### 🌐 Full Stack
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=react,react,nodejs,express,python,flask,fastapi,js,ts,html,css,tailwind,bootstrap,mongodb,postgres" />
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+---
+
+### ⚙️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,linux" />
 
 </p>
 
